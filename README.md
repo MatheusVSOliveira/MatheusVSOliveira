@@ -1,5 +1,3 @@
-##Olá! Eu sou o Matheus Oliveira
-
 - 🌿 Biólogo
 - 🚀 Estudante - Desenvolvedor Java - Generation Brasil
 - 📫 Contate-me no e-mail: matheusvsoliveira61@gmail.com 
