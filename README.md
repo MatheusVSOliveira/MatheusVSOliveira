@@ -1,5 +1,5 @@
 - 🌿 Biólogo
-- 🚀 Estudante - Desenvolvedor Java - Generation Brasil
+- 🚀 Desenvolvedor Web Java
 - 📫 Contate-me no e-mail: matheusvsoliveira61@gmail.com 
 - 😄 Pronouns: ele/dele
 
