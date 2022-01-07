@@ -1,6 +1,6 @@
 - 🌿 Biólogo
 - 🚀 Desenvolvedor Web Java
-- 😄 Pronouns: ele/dele
+- 📫 matheusvsoliveira61@gmail.com
 
 <div align="center">
   <a href="https://github.com/MatheusVSOliveira">
