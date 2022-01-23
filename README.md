@@ -4,5 +4,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusVSOliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/9YTmT1N.png" width="500px" height="300px"/>
+  <a href="https://imgur.com/MLQ2n41"><img src="https://i.imgur.com/MLQ2n41.gif" title="source: imgur.com" /></a>
 </div>
